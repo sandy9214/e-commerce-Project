@@ -1,0 +1,4 @@
+[08-Jan-2015 11:16:39 America/Denver] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[08-Jan-2015 11:16:39 America/Denver] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='/home/sandy92/public_html/classes:/home/sandy92/public_html/pages:/home/sandy92/public_html/mod:/home/sandy92/public_html/inc:/home/sandy92/public_html/template:.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[08-Jan-2015 11:16:40 America/Denver] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[08-Jan-2015 11:16:40 America/Denver] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='/home/sandy92/public_html/classes:/home/sandy92/public_html/pages:/home/sandy92/public_html/mod:/home/sandy92/public_html/inc:/home/sandy92/public_html/template:.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
